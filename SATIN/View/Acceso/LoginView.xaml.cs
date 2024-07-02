@@ -31,7 +31,6 @@ namespace SATIN.View
 
         private void btnMinimize_Click(object sender, RoutedEventArgs e)
         {
-            WindowState= WindowState.Minimized;
         }
 
         private void btnCerrar_Click(object sender, RoutedEventArgs e)
