@@ -1,0 +1,9 @@
+﻿<Application x:Class="SATIN.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SATIN"
+             StartupUri="View/Acceso/LoginView.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
