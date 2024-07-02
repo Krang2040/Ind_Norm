@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!--Hoja de estilos en Xaml
+    ejemplos con colore para los controles-->
+    <SolidColorBrush x:Key="bg-primary" Color="#0d6efd"/>
+    <SolidColorBrush x:Key="bg-secondary" Color="#6c757d"/>
+    <SolidColorBrush x:Key="bg-card" Color="#99aab5"/>
+    <SolidColorBrush x:Key="bg-card-ligth" Color="#eeeeee"/>
+    <SolidColorBrush x:Key="bg-gray" Color="#cccccc"/>
+    <SolidColorBrush x:Key="bg-white" Color="#ffffff"/>
+    <SolidColorBrush x:Key="bg-success" Color="#198754"/>
+    <SolidColorBrush x:Key="bg-danger" Color="#dc3545"/>
+    <SolidColorBrush x:Key="bg-warning" Color="#ffc107"/>
+    <SolidColorBrush x:Key="bg-info" Color="#0dcaf0"/>
+    <SolidColorBrush x:Key="bg-light" Color="#f8f9fa"/>
+    <SolidColorBrush x:Key="bg-dark" Color="#212529"/>
+    
+    
+    <!--Uso de Fuente-->
+    <FontFamily x:Key="font-primary">Bahnschrift</FontFamily>    
+    
+</ResourceDictionary>
